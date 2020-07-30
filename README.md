@@ -1,5 +1,5 @@
 # exercise
-This folder is intended to provide some exercises for remnants to learn and practice manipulating data from a data set.
+This folder is intended to provide some exercises to learn and practice manipulating data from a data set.
 
 To complete the exercises, please use the data file (sf.txt) in this folder.
 
