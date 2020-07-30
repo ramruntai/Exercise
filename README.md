@@ -22,8 +22,7 @@ Exercise 6:
 Using the reference range (see below), extract and print numbers to the following files accordingly:
 1c4.txt, 2s0.txt, 4c1.txt
 
-      column 1    column 2
-1c4   0-360       150-180
-2s0   135-165     75-105
-4c1   0-360       0-30
 
+if column1: 0-360 and column2: 150-180, extract and print numbers to 1c4.txt
+if column1: 135-165 and column2: 75-105, extract and print numbers to 2s0.txt
+if column1: 0-360 and column2: 0-30, extract and print numbers to 4c1.txt
